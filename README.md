@@ -13,3 +13,17 @@ For more information on fuel consumption testing, visit: https://www.nrcan.gc.ca
 
 To compare the fuel consumption information of new and older models to find the most fuel-efficient vehicle that meets your everyday needs, use the fuel consumption ratings search tool at https://fcr-ccc.nrcan-rncan.gc.ca/en.
 
+
+## Model Evaluation 
+
+- Adjusted R-squared: 0.9005
+- RMSE: 19.07
+- MAE: 14.13
+
+## Results
+
+- Luxury Viehichles tend to have lareger CO2 emission.
+- Vans and pickup trucks tend to have more CO2 emission compared to other vehicle classes.
+
+## Conclusion
+The predictive model was able to show accurate prediction based on significant variable selection. Variables such as make, model, class, cylinder, engine size, transmission and fuel type showed a strong relationship with CO2 emissions. The results can be effectively shared with consumers so that they can predict the CO2 emission of all the vehicles available for purchase within Canada and make an informed decision. 
